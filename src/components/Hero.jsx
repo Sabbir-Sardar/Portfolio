@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container items-center lg:grid lg:grid-cols-2 lg:gap-10 ">
         <div>
           <h2 className="headline-2 max-w-[8ch] bad-script-regular  sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-0 text-sm">
-            Hi, I am
+            H, I am
           </h2>
           <h2 className="headline-1 max-w-[15ch] cormorant-garamond-light sm:max-w-[20ch] lg:max-w-[15ch] mt-5 mb-8 lg:mb-2">
             {text.split("").map((char, index) => (
