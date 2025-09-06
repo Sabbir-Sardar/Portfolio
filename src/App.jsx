@@ -66,6 +66,8 @@ const App = () => {
     return (
       <ReactLenis root>
       <Header 
+          <!-- Start of Async ProveSource Code --><script>!function(o,i){window.provesrc&&window.console&&console.error&&console.error("ProveSource is included twice in this page."),window.provesrc={dq:[],display:function(){this.dq.push(arguments)}},o._provesrcAsyncInit=function(){window.provesrc.init({apiKey:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50SWQiOiI2OGIwMWVhODM4ZDgxNWVkZTg2NTg4YTUiLCJpYXQiOjE3NTYzNzI2NDh9.gafayjRfCEZ76aUcKsq3GjfY6gQRhyTYji97hQtsVwc",v:"0.0.4"})};var r=i.createElement("script");r.type="text/javascript",r.async=!0,r["ch"+"ar"+"set"]="UTF-8",r.src="https://cdn.provesrc.com/provesrc.js";var e=i.getElementsByTagName("script")[0];e.parentNode.insertBefore(r,e)}(window,document);</script><!-- End of Async ProveSource Code -->
+              
           <!-- Pixel Code - https://66socialproof.com/demo/ -->
 <script defer src="https://66socialproof.com/demo/pixel/jeaJKRG64OZyrZjAu5PPwdm8DgR7jvJH"></script>
 <!-- END Pixel Code -->
