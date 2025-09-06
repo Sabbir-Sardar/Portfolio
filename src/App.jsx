@@ -65,7 +65,11 @@ const App = () => {
     });
     return (
       <ReactLenis root>
-      <Header />
+      <Header 
+          <!-- Pixel Code - https://66socialproof.com/demo/ -->
+<script defer src="https://66socialproof.com/demo/pixel/jeaJKRG64OZyrZjAu5PPwdm8DgR7jvJH"></script>
+<!-- END Pixel Code -->
+          />
       <main>
         <Hero />
         <About />
